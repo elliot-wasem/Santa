@@ -150,6 +150,7 @@ int main(int argc, char *argv[]) {
         }
         refresh();
     } while (c != 'q');
+    endwin();
 }
 
 int init_flakes() {
