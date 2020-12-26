@@ -7,3 +7,5 @@ This is a simple enough program that I wrote initially on Christmas 2020, when I
 - quit: `q`
 
 Feel free to fork and alter, but please give me credit where it is due!
+
+![](recording.gif)
